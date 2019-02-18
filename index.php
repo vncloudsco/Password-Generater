@@ -110,7 +110,7 @@
             <div class="col-md-3"></div>
         </div>
     </div>
-    <div style="float: right;padding: 20px;color: #bfbfbf;">Created By <a href="http://github.com/hmrserver/">HMR</a> © 2016 -
+    <div style="float: right;padding: 20px;color: #bfbfbf;">Created By <a href="manhtuong.net">MTDEV</a> © 2016 -
         <?php echo date( 'Y');?>
     </div>
 </body>
